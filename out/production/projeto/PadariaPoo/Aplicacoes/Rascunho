@@ -1,0 +1,70 @@
+    nome da classe
+    atributos
+    construtores
+    encapsulamento
+    metodos
+
+Criar um Programa que realize:
+
+1-Cadastro de produto OK
+    1- Impressão dos produtos por seção OK
+
+2- realizar venda
+    1- Metodos Debito e Credito criadas. OK
+    2 -conferencia de estoque
+___________________________________________________________
+
+1-Cadastro de produto:
+
+    1.a -Massas (OK)
+    Ja esta cadastrando + de 1 produto (OK)
+    1.b Bebida (OK)
+    Ja esta cadastrando + de 1 produto (OK)
+    1.c Sorvetes(OK)
+    Ja esta cadastrando + de 1 produto (OK)
+
+Proxima atividade: 26/10/2023
+Cadastro da Seção de sorvetes. OK
+Criar um menu organizado para o Usuario. OK
+incluir esse menu no termino do processo. OK
+Criar a opção que vai sair do while.      OK
+Criar uma impressão organizada dos valores. OK
+Subir para o Repositorio (OK)
+______________________________________________________________________________________________________________________
+
+Proxima atividade: 27/10/2023
+
+Seção de venda de produto
+
+Usuario escolher a seção: OK
+Usuario escolher o produto: OK
+informar a quantidade desejada: OK
+vereficicar se a quantidade e multiplicar pelo preço unitariodo produto: OK
+imprimir o valor: OK
+verificar se o total é correspondente ao saldo do usuario: OK
+Conferencia de estoque antes de realizar a venda. OK
+tomar a decisão de compra: OK
+
+________________________________________________________________________________
+Proxima atividade: 28/10/2023
+
+Depositar valor na conta do Usuario para executar o teste:
+- Seção de Vendas
+Controle de estoque - Conferir se os valores debitados, estão sendo subtraidos da conta do Usuário.
+- subtrair a quantdade correspondente da compra do produto no estoque.
+- Criar uma mensagem de alerta para que o Dono da padaria saiba que está
+acabando e possa fazer reposição do produto.
+Fazer integração com o menu principal.
+
+subtrair a quantidade do produto no estoque conferir se o saldo também foi subtraido.
+
+obs1: alteração feita na impressão dos itens
+procurar entender porque os produtos não estão sendo imrpessos no metodo
+o menu de seleção do produto não esta funcionando
+hipotese 1 : deve ser pelo mesmo erro de não esta imprimindo, os valores
+ cadastrados não estão sendo anexados a classe
+
+ Obs2: Realizar reeleitura da obs1, porem a impressão dos itens foi corrigida,
+ lembrar de realizar o cadastro de mais de 1 produto para conferir se esta totalmente Ok.
+
+ ver a funcionalidade escolher o produto disponivel para seguir com a compra.

@@ -1,0 +1,19 @@
+Criar um Programa que realize:
+
+    *Cadastro de produto
+    Massas (OK)
+    Ja esta cadastrando + de 1 produto (OK)
+
+    Bebida
+    Ja esta cadastrando + de 1 produto (OK)
+
+    Sorvetes(OK)
+    Ja esta cadastrando + de 1 produto (OK)
+
+
+    -realizar venda
+    -conferencia de estoque
+
+Digite 1 para =  Balcão padaria");
+Digite 2 para = Bebidas");
+Digite 3 para = Sorvetes");
